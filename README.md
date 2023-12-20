@@ -54,7 +54,9 @@ print(solution)
 ```
 
 ## Output:
-![Alt text](<LU PIC-1.png>)
+
+![output](https://github.com/Oviya24032K6/LU-Decomposition/assets/147139999/aff3644a-a241-44ab-a0d8-db892ce2ad5b)
+
 
 
 

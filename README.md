@@ -57,11 +57,12 @@ print(solution)
 
 # TO FIND THE L AND U MATRIX
 
-![output](https://github.com/Oviya24032K6/LU-Decomposition/assets/147139999/22e079c2-9137-4059-8e63-18692b73559c)
+![OUTPUT](https://github.com/Oviya24032K6/LU-Decomposition/assets/147139999/50ae3eab-8d7c-4256-9f3a-adcbc09c98a4)
+
 
 # TO FIND THE LU DECOMPOSITION OF A MATRIX
 
-![output](https://github.com/Oviya24032K6/LU-Decomposition/assets/147139999/54b4cf75-821b-4f8c-a2f1-8dd5e24a1739)
+![OUTPUT](https://github.com/Oviya24032K6/LU-Decomposition/assets/147139999/23d27669-f918-4aa9-9099-e0a8792a6dba)
 
 
 

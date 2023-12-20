@@ -55,7 +55,14 @@ print(solution)
 
 ## Output:
 
-![output](https://github.com/Oviya24032K6/LU-Decomposition/assets/147139999/aff3644a-a241-44ab-a0d8-db892ce2ad5b)
+# TO FIND THE L AND U MATRIX
+
+![output](https://github.com/Oviya24032K6/LU-Decomposition/assets/147139999/22e079c2-9137-4059-8e63-18692b73559c)
+
+# TO FIND THE LU DECOMPOSITION OF A MATRIX
+
+![output](https://github.com/Oviya24032K6/LU-Decomposition/assets/147139999/54b4cf75-821b-4f8c-a2f1-8dd5e24a1739)
+
 
 
 
